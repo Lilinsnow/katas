@@ -5,6 +5,12 @@
 const x1 = 2;
 const x2 = 7;
 
+// Nuevas variables
+const x3 = false;
+if (x3) {
+    
+}
+
 // 👇🏻 Tendrás que almacenar el valor de la comparación aquí modificando estas líneas
 const x1Comparation = false;
 const x2Comparation = false;
